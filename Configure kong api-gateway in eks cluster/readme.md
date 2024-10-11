@@ -24,7 +24,7 @@ TEST SUITE: None
 
    The results should look like this:
 
-   NAME                 TYPE           CLUSTER-IP      EXTERNAL-IP                           PORT(S)                      AGE
-kong-gateway-proxy   LoadBalancer   10.63.250.199   example.eu-west-1.elb.amazonaws.com   80:31929/TCP,443:31408/TCP   4m41s
+ <img width="390" alt="image" src="https://github.com/user-attachments/assets/0ff49da7-e1ce-40f0-a62f-850a9772704c">
+
 
 
